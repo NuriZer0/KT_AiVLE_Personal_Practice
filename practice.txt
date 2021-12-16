@@ -2,3 +2,4 @@ my personal practice project.
 this is not porject.
 
 다른 컴퓨터에서 작성하고 있습니다.
+연동이 가능할까요?

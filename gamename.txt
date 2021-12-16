@@ -5,6 +5,7 @@ Microsoft - Xbox Series X|S
 Sony - PlayStation 5
 
 Windows Platform
+
 Valve - Steam
 EA - EA Play
 Microsoft - Xbox GAME PASS
