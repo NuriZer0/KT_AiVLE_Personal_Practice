@@ -5,3 +5,7 @@ popn
 ddr
 djmax
 o2zam
+ez2ac
+ez2on
+drs
+nst
