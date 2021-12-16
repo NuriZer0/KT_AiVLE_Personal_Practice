@@ -1,11 +1,11 @@
-bm2dx
-jb
-rb
-popn
-ddr
-djmax
-o2zam
-ez2ac
-ez2on
-drs
-nst
+GAME CONSOLE
+
+Nintendo - Nintendo Switch
+Microsoft - Xbox Series X|S
+Sony - PlayStation 5
+
+Windows Platform
+Valve - Steam
+EA - EA Play
+Microsoft - Xbox GAME PASS
+Epic Games - Epic Games Store
